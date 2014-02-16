@@ -277,8 +277,11 @@ void testApp::update(){
 
 ##Links
 
-- [openFrameworks documentation](http://openframeworks.cc/documentation/) 
+- [openFrameworks documentation](http://openframeworks.cc/documentation/)
+- [Markdown Basics](https://daringfireball.net/projects/markdown/basics)
 
 ##Homework due next class
 - Read [openFrameworks for Processing users](http://openframeworks.cc/tutorials/first%20steps/002_openFrameworks_for_processing_users.html)
-- Build and play the example apps that come with openFrameworks. Choose three that interest you most. We will discuss them during the following class. Create a sketch that uses at least three variables of two different types.
+- Build and play at least 8 example apps that come with openFrameworks. 
+- Choose three that interest you most. Write a description of each using [markdown](http://support.mashery.com/docs/customizing_your_portal/Markdown_Cheat_Sheet). We will discuss them next class.
+- Create a sketch that uses at least three variables of two different types.
